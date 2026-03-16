@@ -137,3 +137,27 @@ This project demonstrates practical SQL skills including:
 * **GitHub for Version Control**
 
 ---
+## ✔ License
+
+This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About
+
+## About Me
+
+Hi! I'm **Hiral Paresh Patel** 
+
+B.Tech student in **Artificial Intelligence and Data Science (AI & DS)**, currently in **2nd Year at Thakur College of Engineering and Technology**.
+
+I am interested in **Data Engineering, Data Analytics, and Artificial Intelligence**, and enjoy working on projects involving data processing and system design.
+
+**Skills**
+
+* SQL
+* C Programming
+* Java (Basics)
+* Data Warehousing Concepts
+
+**Goal**
+To build strong skills in **Data Engineering and AI** and contribute to building scalable and efficient data systems.
+
