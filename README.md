@@ -141,8 +141,6 @@ This project demonstrates practical SQL skills including:
 
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About
-
 ## About Me
 
 Hi! I'm **Hiral Paresh Patel** 
